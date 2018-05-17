@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+# **Bold**Hello World
+
+My name is github-lvelu
+
+## _Italic_ This is Header2 in Italics
+-Bulleted Bullet Point a
+-Bulleted Bullet Point b
+-Bulleted Bullet Point c
+
+### This is Header3
+
+-List a, b , c
+-List d
+
+1. Numbered 5, 4, 3
+1. Numbered 2 1
+
+2. List one two
+2. List three, four
+
 
 You can use the [editor on GitHub](https://github.com/lvelu/LVELU.GITHUB.IO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
